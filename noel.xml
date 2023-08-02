@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="IPTV" generator-info-url="frenchip.ddns.net">
 	<channel id="noel5.fr">
-		<display-name>|FR| NOËL TV 5</display-name>
+		<display-name>|FR| NOEL TV 5</display-name>
 	</channel>
 	<programme start="20200623120000 +0200" stop="20200623130000 +0200" channel="noel5.fr">
 		<title lang="fr">blah</title>
