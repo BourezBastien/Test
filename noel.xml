@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="IPTV" generator-info-url="frenchip.ddns.net">
+	<channel id="noel5.fr">
+		<display-name>|FR| NOËL TV 5</display-name>
+	</channel>
+	<programme start="20200623120000 +0200" stop="20200623130000 +0200" channel="noel5.fr">
+		<title lang="fr">blah</title>
+		<desc lang="fr">
+       Blah Blah Blah.
+    </desc>
+		<credits>
+			<director>blah</director>
+			<actor>a</actor>
+			<actor>b</actor>
+		</credits>
+		<date>19901011</date>
+		<country>EN</country>
+		<video>
+			<aspect>16:9</aspect>
+		</video>
+		<rating system="MPAA">
+			<value>PG</value>
+			<icon src="https://photos.tf1.fr/450/225/logo-programme-films-tv-de-noel-2022-12e15f-3fc0ee-0@1x.png" />
+		</rating>
+		<star-rating>
+			<value>3/3</value>
+		</star-rating>
+	</programme>
+</tv>
